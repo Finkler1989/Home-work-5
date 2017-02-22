@@ -1,0 +1,22 @@
+/** {
+	border: 1px solid green;
+}
+*/
+.container {
+	margin: all;
+}
+
+.row {
+	margin: auto;
+}
+
+.row .subheading {
+	vertical-align: top;
+    display: inline-block;
+    padding: 20px;
+    width: calc(96%/3);
+}
+
+.round {
+    border-radius: 100%;
+}

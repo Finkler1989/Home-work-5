@@ -83,3 +83,14 @@
 	background: #04033B;
 	color: #B7B6B6;
 }
+
+.colortext {
+	color: #999999;
+}
+
+.content .subhead h1 {
+	padding-top: 150px;
+	padding-left: 80px;
+	font-size: 46px;
+	color: #464545;
+}

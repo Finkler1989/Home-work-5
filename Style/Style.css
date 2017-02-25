@@ -6,6 +6,10 @@
 	background: #777777;
 }
 
+div .project-name {
+	padding-top: 20px;
+}
+
 .project-name {
 	margin-left: 100px;
 	margin-right: 100px;
@@ -43,8 +47,7 @@
 }
 
 .row {
-	margin: auto;
-	padding: 0 70px 0 70px;
+	margin: 0 100px 0 100px;
 	border-bottom: 1px solid #E0DDDD;
 }
 
@@ -91,13 +94,11 @@
 
 .content .subhead h1 {
 	padding-top: 50px;
-	padding-left: 80px;
 	font-size: 46px;
 	color: #464545;
 }
 
 .content .subhead p {
-	padding-left: 80px;
 	font-size: 24px;
 	color: #595757;
 }
@@ -107,7 +108,18 @@ img {
 }
 
 div .subhead.row {
+	margin: 0 100px 0 100px;
 	padding-top: 50px;
 	padding-bottom: 50px;
 	border-bottom: 1px solid #E0DDDD;
+}
+
+.footer {
+	padding-top: 100px;
+	padding-bottom: 50px;
+	margin-left: 100px;
+}
+
+.footer a {
+	text-decoration: none;
 }
